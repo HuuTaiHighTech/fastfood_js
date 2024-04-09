@@ -13,18 +13,13 @@ Mô tả bất kỳ điều kiện tiên quyết nào, thư viện, phiên bản
 
 ### Cài Đặt
 
-**tự động khởi động lại server**
-**npm i nodemon**
-**tạo ra ứng dụng web và API nhanh chóng và dễ dàng**
-**npm i express**
-**xử lý lỗi trong ứng dụng Express.**
-**npm i http-errors**
-**ghi lại các request đến server**
-**npm i morgan**
-**khởi động ứng dụng Node.js.**
-**npm start**
-**cơ sở dữ liệu NoSQL, để lưu trữ dữ liệu**
-**mongodb**
+tự động khởi động lại server npm i nodemon<br>
+tạo ra ứng dụng web và API nhanh chóng và dễ dàng npm i express<br>
+xử lý lỗi trong ứng dụng Express. npm i http-errors<br>
+ghi lại các request đến server npm i morgan<br>
+khởi động ứng dụng Node.js. npm start<br>
+cơ sở dữ liệu NoSQL, để lưu trữ dữ liệu mongodb
+
 
 
 ### Thực Hiện Chương Trình
