@@ -1,8 +1,6 @@
-﻿# fastfood_js
-# JavaScript
-# Tên Dự Án
 
-**Complete E-fastfood website in nodejs**
+# Complete E-fastfood website in nodejs
+
 ## Mô Tả
 
 Thông tin chi tiết về dự án.
@@ -15,8 +13,19 @@ Mô tả bất kỳ điều kiện tiên quyết nào, thư viện, phiên bản
 
 ### Cài Đặt
 
-Cách/thông tin tải chương trình
-Bất kỳ sửa đổi nào cần được thực hiện đối với các tệp/thư mục
+**tự động khởi động lại server**
+**npm i nodemon**
+**tạo ra ứng dụng web và API nhanh chóng và dễ dàng**
+**npm i express**
+**xử lý lỗi trong ứng dụng Express.**
+**npm i http-errors**
+**ghi lại các request đến server**
+**npm i morgan**
+**khởi động ứng dụng Node.js.**
+**npm start**
+**cơ sở dữ liệu NoSQL, để lưu trữ dữ liệu**
+**mongodb**
+
 
 ### Thực Hiện Chương Trình
 
