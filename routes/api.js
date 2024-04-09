@@ -43,6 +43,7 @@ router.get('/clear-cart', APIController.clearCart);
 router.get('/remove-from-cart', APIController.removeFromCart);
 router.get('/add-to-cart', APIController.addToCart);
 router.get('/count-cart', APIController.countCart);
+router.get('/cart', APIController.Cart);
 router.get('/orders',Authorize, APIController.Orders);
 router.get('/order-detail',Authorize, APIController.orderDetail);
 router.get('/products', APIController.Products);
