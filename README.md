@@ -13,12 +13,15 @@ Mô tả bất kỳ điều kiện tiên quyết nào, thư viện, phiên bản
 
 ### Cài Đặt
 
-tự động khởi động lại server npm i nodemon<br>
-tạo ra ứng dụng web và API nhanh chóng và dễ dàng npm i express<br>
-xử lý lỗi trong ứng dụng Express. npm i http-errors<br>
-ghi lại các request đến server npm i morgan<br>
-khởi động ứng dụng Node.js. npm start<br>
-cơ sở dữ liệu NoSQL, để lưu trữ dữ liệu mongodb
+1. Clone repo và `cd` vào đó
+2. Trong terminal của bạn chạy `npm i nodemon`
+3. Dowload database mongodb and run `mongodb://localhost:27017/FastFood`
+4. Create web applications and APIs quickly and easily `npm i express`
+5. Handle errors in Express applications. `npm install http-errors`
+6. Log requests to the server `npm install morgan`
+7. Start the Node.js application. `npm start`
+8. browser `localhost:3000` 
+
 
 
 
