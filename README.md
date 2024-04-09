@@ -36,9 +36,10 @@ Thank You so much for your time !!!
 
 ### Screenshots :
 https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799530954_147826fe989b9dde57f0e2f0305424a7.jpg
+
 ![Chi Tiết Đơn Hàng](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799530954_147826fe989b9dde57f0e2f0305424a7.jpg)
 
-
+![Chi Tiết Đơn Hàng](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799546387_be63c951383147b4b52f07c3194f529a.jpg)
 
 
 
