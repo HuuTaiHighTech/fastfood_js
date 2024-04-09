@@ -31,10 +31,9 @@ E-fastfood is a comprehensive digital solution designed to streamline the orderi
 7. Start the Node.js application. `npm start`
 8. browser `localhost:3000` 
 
+Thank You so much for your time !!!
 
 
+### Screenshots :
 
-### Thực Hiện Chương Trình
 
-Cách chạy chương trình
-Các bước thực hiện từng bước
