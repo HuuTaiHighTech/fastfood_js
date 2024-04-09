@@ -5,7 +5,7 @@
 
 E-fastfood is a comprehensive digital solution designed to streamline the ordering and delivery process for fast-food establishments. This platform facilitates an efficient interaction between customers and restaurants, offering an intuitive online menu, shopping cart functionalities, and secure payment options. With real-time order tracking and a user-friendly interface, E-fastfood aims to enhance the dining experience by reducing wait times and providing a convenient way for users to enjoy their favorite meals from the comfort of their homes. Whether for a quick snack or a full meal, E-fastfood delivers quality service with speed and reliability, embodying the fast-paced lifestyle of its customers.
 
-## Bắt Đầu
+## The First
 
 ### Dependencies
 
