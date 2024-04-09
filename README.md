@@ -35,11 +35,21 @@ Thank You so much for your time !!!
 
 
 ### Screenshots :
-https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799530954_147826fe989b9dde57f0e2f0305424a7.jpg
+![Alt text](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330800952280_343c23cc2661ae1fe6342896f3530dbd.jpg)
+
 
 ![Chi Tiết Đơn Hàng](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799530954_147826fe989b9dde57f0e2f0305424a7.jpg)
 
-![Chi Tiết Đơn Hàng](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799546387_be63c951383147b4b52f07c3194f529a.jpg)
+![List Order](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799546387_be63c951383147b4b52f07c3194f529a.jpg)
+![List Catagory](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799546994_15cbdb565e6048fd081da56bc019489c.jpg)
+![Alt text](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330800312977_e8a77d4a3d307b3cc3772718add200ad.jpg)
+
+![Alt text](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799553123_9894662b669b08871e760d1b2af2bc30.jpg)
+![Alt text]((https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799639393_806b7de7b35ad788724a3ba9a6c2d2a7.jpg))
+![Alt text](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799698939_4ba0c0888b27c855c08af3fbdc53167b.jpg)
+![Alt text](https://github.com/HuuTaiHighTech/fastfood_js/blob/e5c0e34fb961a76be3a785db10c9210b7000ef34/public/img1/z5330799703069_327db92ae6c06a6b6759d3fd6b7a5a58.jpg)
+
+
 
 
 
